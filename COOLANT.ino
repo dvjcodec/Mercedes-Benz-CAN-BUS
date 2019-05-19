@@ -3,7 +3,7 @@
 //
 // https://matthewcmcmillan.blogspot.com
 // Twitter: @matthewmcmillan
-//
+// Mercedes W210 coolant gauge run data / edit by Krzysztof Dymianiuk @ https://www.facebook.com/garage.seasidecustoms/
 
 #include "mcp_can.h"
 #include <SPI.h>
