@@ -1,6 +1,9 @@
 // Pulse to CAN-BUS merrage for W203 MB cluster
 // Tested on Mega2560 + CAN-BUS shield + square signal generator
-// Krzysztof Dymianiuk @ Seaside Customs Garage / dvjcodec@gmail.com
+// Krzysztof Dymianiuk @ Seaside Customs Garage / dvjcodec@gmail.co
+// Part of code by:
+// https://matthewcmcmillan.blogspot.com
+// Twitter: @matthewmcmillan
 
 
 #include "mcp_can.h"
