@@ -1,0 +1,10 @@
+ID308 8 FF 06 20 FF FF FF FF FF
+
+formula
+
+256A+B
+
+06 - hex to dec = 6
+20 - hex to dec = 32
+
+256x6 + 32 = 1568 rpm
